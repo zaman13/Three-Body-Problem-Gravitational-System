@@ -18,3 +18,10 @@ The effect of Jupiter on Earth's orbit can be visualized using the Earth-Jupiter
 Earth-Jupiter-Sun system. 
 
 <img src="https://github.com/zaman13/Restricted-Three-Body-Problem-Gravitational-System/blob/master/sample_output_1.png" alt="alt text" width="300">
+
+
+
+## References
+1. Earth fact sheet: https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html
+2. Jupiter fact sheet: https://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html
+3. https://www.phas.ubc.ca/~berciu/TEACHING/PHYS349/karla.pdf
