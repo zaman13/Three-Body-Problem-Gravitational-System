@@ -1,6 +1,8 @@
 # Restricted-Three-Body-Problem-Gravitational-System
 A python code to calculate planetary orbits in a restricted three-body gravitational system. The code can demonstrate how one planet affects the orbit of another planet. As an example, Earth, Jupiter, Sun system is analyzed.
 
+## Math and Theory
+[Theory file](https://github.com/zaman13/Restricted-Three-Body-Problem-Gravitational-System/blob/master/Theory.ipynb)
 
 ## Requirements
 The code uses matplotlib to create the orbital motion animation. The package ffmpeg is required to run the animation. It can be installed using the Anaconda terminal:
@@ -8,6 +10,7 @@ The code uses matplotlib to create the orbital motion animation. The package ffm
 conda install -c menpo ffmpeg
 ```
 The video is embedded in the Jupyter notebook using html5. The vidoe can also exported as mp4. 
+
 
 
 ## Earth-Jupiter-Sun system
