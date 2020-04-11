@@ -1,6 +1,9 @@
 # Three-Body-Problem-Gravitational-System
 A python code to calculate planetary orbits in a three-body gravitational system. The code can demonstrate how one planet affects the orbit of another planet. As an example, Earth, Jupiter, Sun system is analyzed.
 
+The code is available in Jupyter notebook (or IPython notebook) format and python script format (suitable for running with spyder). 
+
+
 ## Math and Theory
 [Theory file](https://github.com/zaman13/Restricted-Three-Body-Problem-Gravitational-System/blob/master/Theory.ipynb)
 
