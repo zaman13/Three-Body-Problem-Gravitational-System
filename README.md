@@ -1,10 +1,18 @@
 # Three-Body-Problem-Gravitational-System
+<p float="left">
+<a href = "https://github.com/zaman13/Three-Body-Problem-Gravitational-System/tree/master/Python%20script"> <img src="https://img.shields.io/badge/Language-Python-blue" alt="alt text"> </a>
+<a href = "https://github.com/zaman13/Three-Body-Problem-Gravitational-System/tree/master/Python%20notebook%20files"> <img src="https://img.shields.io/badge/Language-Jupyter notebook-blue" alt="alt text"> </a>  
+<a href = "https://github.com/zaman13/Three-Body-Problem-Gravitational-System/blob/master/LICENSE"> <img src="https://img.shields.io/badge/license-MIT-green" alt="alt text"></a>
+<a href = "https://github.com/zaman13/Three-Body-Problem-Gravitational-System/tree/master/Python%20script"> <img src="https://img.shields.io/badge/version-1.1-red" alt="alt text"> </a>
+</p>
+
+
 A python code to calculate planetary orbits in a three-body gravitational system. The code can demonstrate how one planet affects the orbit of another planet. As an example, Earth, Jupiter, Sun system is analyzed.
 
 The code is available in Jupyter notebook (or IPython notebook) format and python script format (suitable for running with spyder). 
 
 
-## Math and Theory
+## Math and Theory <a href = "https://github.com/zaman13/Restricted-Three-Body-Problem-Gravitational-System/blob/master/Theory.ipynb"> <img src="https://img.shields.io/badge/Theory-Jupyter notebook-blue" alt="alt text"> </a>
 [Theory file](https://github.com/zaman13/Restricted-Three-Body-Problem-Gravitational-System/blob/master/Theory.ipynb)
 
 ## Requirements
