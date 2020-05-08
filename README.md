@@ -6,14 +6,20 @@
 <a href = "https://github.com/zaman13/Three-Body-Problem-Gravitational-System/tree/master/Python%20script"> <img src="https://img.shields.io/badge/version-1.1-red" alt="alt text"> </a>
 </p>
 
+<img align = "right" src="https://github.com/zaman13/Restricted-Three-Body-Problem-Gravitational-System/blob/master/sample_output_1.gif" alt="alt text" width="180">
 
-A python code to calculate planetary orbits in a three-body gravitational system. The code can demonstrate how one planet affects the orbit of another planet. As an example, Earth, Jupiter, Sun system is analyzed.
+A python code to calculate planetary orbits in a three-body gravitational system. The code can demonstrate how one planet affects the orbit of another planet. As an example, Earth, Jupiter, Sun system is analyzed. 
 
 The code is available in Jupyter notebook (or IPython notebook) format and python script format (suitable for running with spyder). 
 
 
+
+
+
 ## Math and Theory <a href = "https://github.com/zaman13/Restricted-Three-Body-Problem-Gravitational-System/blob/master/Theory.ipynb"> <img src="https://img.shields.io/badge/Theory-Jupyter notebook-blue" alt="alt text"> </a>
 [Theory file](https://github.com/zaman13/Restricted-Three-Body-Problem-Gravitational-System/blob/master/Theory.ipynb)
+
+
 
 ## Requirements
 The code uses matplotlib to create the orbital motion animation. The package ffmpeg is required to run the animation. It can be installed using the Anaconda terminal:
@@ -31,7 +37,7 @@ The effect of Jupiter on Earth's orbit can be visualized using the Earth-Jupiter
 ## Sample output
 Earth-Jupiter-Sun system. 
 
-<img src="https://github.com/zaman13/Restricted-Three-Body-Problem-Gravitational-System/blob/master/sample_output_1.png" alt="alt text" width="300">
+<img src="https://github.com/zaman13/Restricted-Three-Body-Problem-Gravitational-System/blob/master/sample_output_1.gif" alt="alt text" width="300">
 
 
 
